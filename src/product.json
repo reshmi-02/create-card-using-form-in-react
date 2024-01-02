@@ -1,0 +1,82 @@
+{
+    "product":[{
+        "id":1,
+        "image":"https://images.meesho.com/images/products/20109268/e3e39_400.webp",
+        "pname":"PURVAJA Women's Dress...",
+        "price":"193",
+        "oldprice":"320",
+        "discount":"40 % off",
+        "review":"2716",
+        "rating":"4.1"
+    },
+    {
+        "id":2,
+        "image":"https://images.meesho.com/images/products/36018349/ypp93_400.webp",
+        "pname":"Knock Knock Studio Latest...",
+        "price":"192",
+        "oldprice":"227",
+        "discount":"15 % off",
+        "review":"3655",
+        "rating":"3.8"
+    },
+    {
+        "id":3,
+        "image":"https://images.meesho.com/images/products/34394052/ljkmy_400.webp",
+        "pname":"Fancy Fashionable Women...",
+        "price":"240",
+        "oldprice":"271",
+        "discount":"17 % off",
+        "review":"26467",
+        "rating":"3.7"
+    },
+    {
+        "id":4,
+        "image":"https://images.meesho.com/images/products/323345723/z1c1m_400.webp",
+        "pname":"Comfy Graceful Women...",
+        "price":"294",
+        "oldprice":"225",
+        "discount":"10 % off",
+        "review":"734",
+        "rating":"4"
+    },
+    {
+        "id":5,
+        "image":"https://images.meesho.com/images/products/103713364/0ioi6_400.webp",
+        "pname":"Buccly Women's Dress...",
+        "price":"204",
+        "oldprice":"230",
+        "discount":"15 % 0ff",
+        "review":"159370",
+        "rating":"3.7"
+    },
+    {
+        "id":6,
+        "image":"https://images.meesho.com/images/products/70393359/7x5uz_400.webp",
+        "pname":"Pretty Modern Women...",
+        "price":"242",
+        "oldprice":"261",
+        "discount":"7 % off",
+        "review":"79273",
+        "rating":"3.9"
+    },
+    {
+        "id":7,
+        "image":"https://images.meesho.com/images/products/105845217/nrcxx_400.webp",
+        "pname":"Urbane Glamorous Women...",
+        "price":"390",
+        "oldprice":"432",
+        "discount":"10 % off",
+        "review":"6726",
+        "rating":"4.1"
+    },
+    {
+        "id":8,
+        "image":"https://images.meesho.com/images/products/195388721/utu24_400.webp",
+        "pname":"Stylish Fashionista Women...",
+        "price":"228",
+        "oldprice":"255",
+        "discount":"11 % off",
+        "review":"18478",
+        "rating":"4.0"
+    }]
+}
